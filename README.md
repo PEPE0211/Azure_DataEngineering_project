@@ -1,4 +1,4 @@
-# Comprehensive Azure Data Engineering Solution
+#Azure Data Engineering Project
 
 This project showcases a complete Azure data engineering solution, beginning with a local SQL database and concluding with Power BI reporting, all automated. Credit to [Mr. K Talks Tech](https://www.youtube.com/@mr.ktalkstech) for inspiring this project.
 
