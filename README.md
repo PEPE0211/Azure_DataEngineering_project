@@ -10,7 +10,7 @@ This project serves as an educational opportunity for mastering common data engi
 
 ## Current Environment
 
-Utilized the Microsoft AdventureWorks dataset. We set up an on-premises Microsoft SQL server on a personal computer and imported the dataset using Microsoft SQL Server Management Studio. We also created a new user profile, "nik," and stored "nik" profile's password credentials securely as a Secret in Azure Key Vault.
+Utilized the Microsoft AdventureWorks dataset. We set up an on-premises Microsoft SQL server on a personal computer and imported the dataset using Microsoft SQL Server Management Studio. We also created a new user profile, "pepe," and stored "pepe" profile's password credentials securely as a Secret in Azure Key Vault.
 
 ![image](https://github.com/PEPE0211/Azure_DataEngineering_project/blob/main/images/3.png)
 
